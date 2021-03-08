@@ -71,7 +71,7 @@ EXTRA_PATH_METADATA = {'extra/CNAME': {'path': 'CNAME'}}
 SUMMARY_MAX_LENGTH = 20
 
 BANNER_ALL_PAGES = True
-BANNER_SUBTITLE = 'Making Music Together'
+BANNER_SUBTITLE = 'making music together'
 BANNER = '/images/DSF0118-large.jpg'
 BANNER_LOGO = '/images/cs3banner1.png'
 
