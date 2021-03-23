@@ -16,7 +16,6 @@ Authors: Peter Normington
 * **Data Protection Officer** 	Geoff Bowles 	01768 773138 	<data@cumbria-rural-choirs.org.uk>
 * Kim Purvis
 * Anna Blackburn
-* Anna Clark
 * Eileen Dunning
 * David Opperman
 * Jean Swinburn
@@ -25,15 +24,15 @@ Authors: Peter Normington
 
 ### President
 
-- Lady Cressida Inglewood
+- Cressida Inglewood
 
 ### Vice-Presidents
-
+- Anna Clark
 - Ian Hare
-- Eileen Dunning OBE
+- Eileen Dunning
+- Andrew Padmore
 - Mark Duthie, *Director of Music, Carlisle Cathedral*
-- The Rt. Rev. James Newcombe, *Bishop of Carlisle*
-- Dr. Andrew Padmore, *Choral & Orchestral Conductor*
+- James Newcombe, *Bishop of Carlisle*
 
 ### Our Sponsors
 

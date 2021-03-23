@@ -1,0 +1,4 @@
+source ~/python-virtual-environments/pelicanenv/bin/activate
+pelican content
+pelican --listen
+deactivate

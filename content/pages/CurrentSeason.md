@@ -6,9 +6,12 @@ Template: article_list
 Status: hidden
 -->
 
-#### Because of the conditions created by the Covid-19 virus, Cumbria Singers has cancelled plans for concerts during the 2020-2021 season.
 
-#### We will continue to monitor the situation to determine when we can safely present our choral concerts again.
+### Concerts cancelled
+
+Because of the conditions created by the Covid-19 virus, Cumbria Singers has cancelled plans for concerts during the 2020-2021 season.
+
+We will continue to monitor the situation to determine when we can safely present our choral concerts again.
 
 ---
 
